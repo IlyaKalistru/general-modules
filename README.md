@@ -1,2 +1,2 @@
 # general-modules
-modules for every day use
+Modules to use in my projects.
